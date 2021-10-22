@@ -1,0 +1,23 @@
+.makeStyles-root-1 {
+  width: 100%;
+}
+.Nav {
+  background: linear-gradient(45deg, #4ae4dd, transparent) !important;
+  position: fixed !important;
+}
+ul {
+  float: right;
+  margin-right: 20px;
+}
+ul li {
+  display: inline-block;
+  line-height: 40px;
+  margin: 0 20px;
+}
+
+ul li a {
+  color: white;
+  font-size: 16px;
+  padding: 7px 13px;
+  cursor: pointer;
+}
